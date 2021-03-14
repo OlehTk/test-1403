@@ -1,3 +1,4 @@
 import this
 
-helo, world!!
+print ("helo, world!!")
+
